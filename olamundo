@@ -4,10 +4,8 @@
 <title>ola</title>
 </head>
 <body>
-
 <?php
 echo"<p>Olá Mundo</p>";
 ?>
-
 </body>
 </html>
